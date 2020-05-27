@@ -1,0 +1,14 @@
+Package: com.vaqzmobiz.package
+Name: Vaqzmobiz Tweak
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Switch Package - Fake iOS
+Author: Vaqz <vaqzvasquez@gmail.com>
+Section: Tweak
+Depends: firmware (>= 10.0)
+Maintainer: Vaqz <vaqzvasquez@gmail.com>
+Filename: vaqzmobiz.deb
+Size: 1780
+MD5sum: 4e57fb13b1700ab76c3402b08e82cae1
+SHA1: 77487bfb1ab85ccaed2c5e60f6daa356e909d9ca
+SHA256: 101303d46a670a80346e020a3476117cc316d090433e1a530c5e6a4185519f39
